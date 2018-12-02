@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using LoggerEMN;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Models;
 
@@ -12,6 +13,8 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+            Logger logger = new Logger();
+            logger.Log("test");
             return View();
         }
 
