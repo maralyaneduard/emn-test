@@ -1,5 +1,5 @@
 {
   "extends": [
-	"gitlab>maralyaneduard/renovate-config"
+	"gitlab>maralyaneduard/test"
   ]
 }
