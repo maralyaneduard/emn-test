@@ -1,6 +1,6 @@
 {
   "extends": [
-	"github>maralyaneduard/renovate-config"
+	"github>maralyaneduard/renovate-config",
     ":labels(depedendencies,devops)",
     ":assignee(rarkins)"
   ]
