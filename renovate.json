@@ -1,5 +1,5 @@
 {
   "extends": [
-	"gitlab>maralyaneduard%2Ftest"
+	"gitlab>maralyaneduard/test"
   ]
 }
