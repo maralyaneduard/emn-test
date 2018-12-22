@@ -1,5 +1,6 @@
 {
   "extends": [
 	"gitlab>maralyaneduard/test"
-  ]
+  ],
+  "automerge": "true"
 }
