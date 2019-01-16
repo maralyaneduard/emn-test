@@ -1,7 +1,4 @@
 {
-  "extends": [
-	"gitlab>maralyaneduard/test"
-  ],
   "automerge": "true",
   "gitFs": "https"
 }
