@@ -2,5 +2,6 @@
   "extends": [
 	"gitlab>maralyaneduard/test"
   ],
-  "automerge": "true"
+  "automerge": "true",
+  "gitFs": "https"
 }
